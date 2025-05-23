@@ -1,3 +1,10 @@
+# NOTE TO THE READER
+This repo is used as part of the [Defend Log4Shell Lab](https://github.com/wiz-training/defend-log4shell) and is not meant for modification. 
+
+
+For a lab environment meant for customization and enablement, please see [drmalone-defend-lab](https://github.com/wiz-sec/drmalone-defend-lab).
+
+
 Based on https://github.com/kozmer/log4j-shell-poc
 
 
